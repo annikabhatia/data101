@@ -1,6 +1,6 @@
 # 🎵 Spotify Data Analysis
 
-This project explores audio features of songs using a dataset from Spotify. It was completed as part of the **Data 101** course at Rutgers University.
+This project explores audio features of songs using a dataset from Spotify. It was completed as part of a data science course at Rutgers University.
 
 ## 📊 Overview
 
